@@ -1,0 +1,360 @@
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\Chess.exe.config
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\Chess.exe
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\obj\Debug\Chess.Form1.resources
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\obj\Debug\Chess.exe
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\obj\Debug\Chess.pdb
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\netstandard.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.AppContext.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Collections.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Collections.Specialized.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.ComponentModel.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Console.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Data.Common.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Globalization.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.IO.Compression.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.IO.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.IO.FileSystem.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.IO.Pipes.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Linq.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Linq.Expressions.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Linq.Parallel.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Linq.Queryable.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Net.Http.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Net.NameResolution.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Net.Ping.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Net.Primitives.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Net.Requests.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Net.Security.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Net.Sockets.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Net.WebSockets.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.ObjectModel.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Reflection.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Resources.Reader.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Resources.Writer.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Runtime.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Runtime.Handles.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Security.Claims.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Security.Principal.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Security.SecureString.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Text.Encoding.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Threading.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Threading.Tasks.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Threading.Thread.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Threading.Timer.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.ValueTuple.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Xml.XDocument.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Xml.XPath.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\Antlr3.Runtime.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\Fizzler.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\Svg.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Web.Optimization.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\WebGrease.dll
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\Svg.xml
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Web.Optimization.xml
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\obj\Debug\Chess.exe.config
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\obj\Debug\Chess.csproj.CopyComplete
+C:\Users\jojoj\Documents\Visual Studio 2017\Projects\Chess\Chess\obj\Debug\Chess.g.resources
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\Chess.exe.config
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\Chess.exe
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\Chess.pdb
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\netstandard.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.AppContext.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Collections.Concurrent.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Collections.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Collections.NonGeneric.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Collections.Specialized.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.ComponentModel.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Console.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Data.Common.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Diagnostics.Debug.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Diagnostics.Process.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Diagnostics.Tools.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Drawing.Primitives.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Dynamic.Runtime.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Globalization.Calendars.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Globalization.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Globalization.Extensions.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.IO.Compression.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.IO.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.IO.FileSystem.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.IO.Pipes.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Linq.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Linq.Expressions.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Linq.Parallel.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Linq.Queryable.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Net.Http.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Net.NameResolution.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Net.NetworkInformation.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Net.Ping.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Net.Primitives.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Net.Requests.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Net.Security.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Net.Sockets.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Net.WebSockets.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.ObjectModel.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Reflection.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Reflection.Extensions.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Reflection.Primitives.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Resources.Reader.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Resources.ResourceManager.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Resources.Writer.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Runtime.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Runtime.Extensions.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Runtime.Handles.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Runtime.InteropServices.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Runtime.Numerics.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Security.Claims.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Security.Principal.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Security.SecureString.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Text.Encoding.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Text.RegularExpressions.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Threading.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Threading.Overlapped.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Threading.Tasks.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Threading.Thread.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Threading.ThreadPool.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Threading.Timer.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.ValueTuple.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Xml.XDocument.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Xml.XmlDocument.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Xml.XPath.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\Antlr3.Runtime.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\Fizzler.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\Newtonsoft.Json.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\Svg.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Web.Optimization.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\WebGrease.dll
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\Antlr3.Runtime.pdb
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\Newtonsoft.Json.xml
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\Svg.xml
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\bin\Debug\System.Web.Optimization.xml
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\obj\Debug\Chess.exe.config
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\obj\Debug\Chess.g.resources
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\obj\Debug\Chess.Form1.resources
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\obj\Debug\Chess.csproj.CopyComplete
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\obj\Debug\Chess.exe
+D:\Old Documents\Visual Studio 2017\Projects\Chess\Chess\obj\Debug\Chess.pdb
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\Chess.exe.config
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\Chess.exe
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\netstandard.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.AppContext.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Collections.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Collections.Specialized.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.ComponentModel.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Console.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Data.Common.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Globalization.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.IO.Compression.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.IO.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.IO.FileSystem.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.IO.Pipes.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Linq.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Linq.Expressions.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Linq.Parallel.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Linq.Queryable.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Net.Http.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Net.NameResolution.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Net.Ping.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Net.Primitives.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Net.Requests.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Net.Security.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Net.Sockets.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Net.WebSockets.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.ObjectModel.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Reflection.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Resources.Reader.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Resources.Writer.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Runtime.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Runtime.Handles.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Security.Claims.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Security.Principal.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Security.SecureString.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Text.Encoding.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Threading.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Threading.Tasks.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Threading.Thread.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Threading.Timer.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.ValueTuple.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Xml.XDocument.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Xml.XPath.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\Antlr3.Runtime.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\Fizzler.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\Svg.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Web.Optimization.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\WebGrease.dll
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\Svg.xml
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Web.Optimization.xml
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\obj\Debug\Chess.exe.config
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\obj\Debug\Chess.g.resources
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\obj\Debug\Chess.Form1.resources
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\obj\Debug\Chess.csproj.CopyComplete
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\obj\Debug\Chess.exe
+C:\Users\jojoj\Documents\GitHub\Chess\Chess\obj\Debug\Chess.pdb
