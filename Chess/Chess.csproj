@@ -73,7 +73,6 @@
     <Compile Include="ChessBoard.cs" />
     <Compile Include="ChessPiece.cs" />
     <Compile Include="ChessSquare.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -112,20 +111,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="b_bishop_svg_withShadow.svg" />
-    <Resource Include="b_king_svg_withShadow.svg" />
-    <Resource Include="b_knight_svg_withShadow.svg" />
-    <Resource Include="b_pawn_svg_withShadow.svg" />
-    <Resource Include="b_queen_svg_withShadow.svg" />
-    <Resource Include="b_rook_svg_withShadow.svg" />
-    <Resource Include="w_bishop_svg_withShadow.svg" />
-    <Resource Include="w_king_svg_withShadow.svg" />
-    <Resource Include="w_knight_svg_withShadow.svg" />
-    <Resource Include="w_pawn_svg_withShadow.svg" />
-    <Resource Include="w_queen_svg_withShadow.svg" />
-    <Resource Include="w_rook_svg_withShadow.svg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

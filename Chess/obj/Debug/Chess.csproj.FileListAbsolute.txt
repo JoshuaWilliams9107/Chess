@@ -350,7 +350,6 @@ C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\Svg.xml
 C:\Users\jojoj\Documents\GitHub\Chess\Chess\bin\Debug\System.Web.Optimization.xml
 C:\Users\jojoj\Documents\GitHub\Chess\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
 C:\Users\jojoj\Documents\GitHub\Chess\Chess\obj\Debug\Chess.exe.config
-C:\Users\jojoj\Documents\GitHub\Chess\Chess\obj\Debug\Chess.g.resources
 C:\Users\jojoj\Documents\GitHub\Chess\Chess\obj\Debug\Chess.Form1.resources
 C:\Users\jojoj\Documents\GitHub\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
 C:\Users\jojoj\Documents\GitHub\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
